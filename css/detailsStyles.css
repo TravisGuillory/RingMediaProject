@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #c6e4f2;
+}
+
+.jumbotron, .card-body{
+	background-color: #c6e4f2;
+}
